@@ -1,4 +1,4 @@
 # lbac-calendar
-Small script that outputs required calendar events prior to the annual general meeting
+Small script that outputs required calendar events prior to the annual general meeting for LBAC.
 
-Dates and text are manually imported from the [statutes|https://www.lbac.se/lbac/dokument] of LBAC.
+Offset dates and texts are manually imported from the [statutes](https://www.lbac.se/lbac/dokument) of LBAC.
