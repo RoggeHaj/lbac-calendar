@@ -44,7 +44,7 @@ class meeting_event():
         date = datetime.strftime(self.date, '%Y-%m-%d')
 
         if (self.section and self.paragraph):
-            return f'{date} {self.section} kap. {self.paragraph} {self.description}'
+            return f'{date} {self.section} kap. {self.paragraph}§ {self.description}'
 
         else:
             return f'{date} {self.description}'
